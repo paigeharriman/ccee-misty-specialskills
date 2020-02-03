@@ -11,8 +11,6 @@
   "TimeoutInSeconds": 600,
   "CleanupOnCancel": false,
   "WriteToLog": false,
-  "Parameters": {
-    "access_key": "<5b7dcf5d2428e1ef156ec9138e32cbd4>",
-    "query": "<Chapel Hill>"
+  "Parameters": {http://api.weatherstack.com/current?access_key=5b7dcf5d2428e1ef156ec9138e32cbd4&query=Chapel%20Hill
   }
 }
